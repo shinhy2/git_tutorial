@@ -2,3 +2,4 @@ commit : amend test
 amend 후 commit
 *** amend commit test **** : 파일 또 수정
 마지막,,
+- 커밋 메시지만 수정
