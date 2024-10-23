@@ -1,0 +1,2 @@
+branch checkout 전
+    - tracked 로 먼저 만들기
