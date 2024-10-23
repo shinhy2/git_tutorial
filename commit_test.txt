@@ -1,2 +1,3 @@
 commit : amend test
 amend 후 commit
+*** amend commit test **** 
