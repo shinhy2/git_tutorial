@@ -1,1 +1,2 @@
-commit : amend test -> 에멘드 test -> 또 수정
+commit : amend test
+amend 후 commit
