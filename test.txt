@@ -5,3 +5,4 @@
 - tutorial_1 fetch + merge 테스트
 - tutorial_1 fetch + merge 따로 하면 pull처럼 되나
 - 다른 branch에서도 확인되나
+- refs/remotes/origin : hash값 변경 테스트
