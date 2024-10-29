@@ -1,8 +1,0 @@
-- tutorial_1에서 추가함
-1. 1번 커밋
-2. 2번 커밋
-- tutorial_1에서 다시 추가..
-- tutorial_1 fetch + merge 테스트
-- tutorial_1 fetch + merge 따로 하면 pull처럼 되나
-- 다른 branch에서도 확인되나
-- refs/remotes/origin : hash값 변경 테스트

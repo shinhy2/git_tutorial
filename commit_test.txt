@@ -1,4 +1,0 @@
-commit_test
-commit후에 수정함
-merge 다시..
-commit후 HEAD 테스트 용도 
